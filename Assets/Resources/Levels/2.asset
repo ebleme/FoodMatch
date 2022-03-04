@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc96208c63118b9458897b5828978abe, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  cubeLimits: {x: 2, y: 2, z: 3}
+  elementDatas:
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 1416650c387046142979f5fb7feed045, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 9
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 70f18a2965ed3a741a4d6653319ae8e7, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 7
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 77cbe4fe05dbc2d438630cec8e20100a, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 11
+  - isActive: 0
+    texture: {fileID: 0}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 0
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 77cbe4fe05dbc2d438630cec8e20100a, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 11
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 1416650c387046142979f5fb7feed045, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 9
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 1416650c387046142979f5fb7feed045, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 9
+  - isActive: 0
+    texture: {fileID: 0}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 0
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 70f18a2965ed3a741a4d6653319ae8e7, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 7
+  - isActive: 0
+    texture: {fileID: 0}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 0
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 70f18a2965ed3a741a4d6653319ae8e7, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 7
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 77cbe4fe05dbc2d438630cec8e20100a, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 11
+  time: 180
+  level: 2

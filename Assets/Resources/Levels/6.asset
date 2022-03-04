@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc96208c63118b9458897b5828978abe, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  cubeLimits: {x: 3, y: 3, z: 3}
+  elementDatas:
+  - isActive: 1
+    texture: {fileID: 2800000, guid: bb087531704cf9e46938284581dc8c4b, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 5
+  - isActive: 1
+    texture: {fileID: 2800000, guid: f9c3438e487390e4c9e11dd80a2dba52, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 6
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 44fabccfe99f2af4090a9c0a7c26591a, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 4
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 70f18a2965ed3a741a4d6653319ae8e7, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 7
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 1cb58b621b69af84682af55686c71ca4, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 2
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 9331b23379578ae4f8ab27f50a9bdc14, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 1
+  - isActive: 1
+    texture: {fileID: 2800000, guid: c6faa192f38e3f14a846c0e2bd826370, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 10
+  - isActive: 1
+    texture: {fileID: 2800000, guid: c6faa192f38e3f14a846c0e2bd826370, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 10
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 1cb58b621b69af84682af55686c71ca4, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 2
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 70f18a2965ed3a741a4d6653319ae8e7, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 7
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 70f18a2965ed3a741a4d6653319ae8e7, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 7
+  - isActive: 1
+    texture: {fileID: 2800000, guid: bb087531704cf9e46938284581dc8c4b, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 5
+  - isActive: 0
+    texture: {fileID: 0}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 0
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 44fabccfe99f2af4090a9c0a7c26591a, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 4
+  - isActive: 1
+    texture: {fileID: 2800000, guid: f9c3438e487390e4c9e11dd80a2dba52, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 6
+  - isActive: 0
+    texture: {fileID: 0}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 0
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 44fabccfe99f2af4090a9c0a7c26591a, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 4
+  - isActive: 1
+    texture: {fileID: 2800000, guid: c6faa192f38e3f14a846c0e2bd826370, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 10
+  - isActive: 1
+    texture: {fileID: 2800000, guid: f9c3438e487390e4c9e11dd80a2dba52, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 6
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 9331b23379578ae4f8ab27f50a9bdc14, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 1
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 77cbe4fe05dbc2d438630cec8e20100a, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 11
+  - isActive: 0
+    texture: {fileID: 0}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 0
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 1cb58b621b69af84682af55686c71ca4, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 2
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 77cbe4fe05dbc2d438630cec8e20100a, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 11
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 77cbe4fe05dbc2d438630cec8e20100a, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 11
+  - isActive: 1
+    texture: {fileID: 2800000, guid: bb087531704cf9e46938284581dc8c4b, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 5
+  - isActive: 1
+    texture: {fileID: 2800000, guid: 9331b23379578ae4f8ab27f50a9bdc14, type: 3}
+    position: {x: 0, y: 0, z: 0}
+    elementType: 1
+  time: 150
+  level: 6
